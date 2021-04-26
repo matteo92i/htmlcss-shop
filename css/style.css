@@ -100,6 +100,29 @@ h5{
     left: 20px;
     color: white;
 }
+.green{
+    width: 200px;
+    height: 50px;
+    background-color: green;
+    position: absolute;
+    top: 300px;
+    
+}
+.box-3:hover .img-3{
+    display: none;
+
+}
+.img-3{
+    width: 200px;
+    height: 290px;
+
+    background-image: url(../img/4-hover.webp);
+    background-size: cover;
+    background-position: center;
+    
+
+}
+
 
 
 
