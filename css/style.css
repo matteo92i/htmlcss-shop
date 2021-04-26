@@ -1,0 +1,122 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.conteiner{
+    max-width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+.inline{
+    display: inline;
+}
+.box-1{
+    width: 200px;
+    height: 290px;
+    background-image: url(../img/1.webp);
+    background-size: contain;
+    background-position: center;
+    margin-top: 10px;
+}
+.box-2{
+    width: 200px;
+    height: 290px;
+    background-image: url(../img/2.webp);
+    background-size: contain;
+    background-position: center;
+    position: absolute;
+    left: 220px;
+    bottom: 0px;
+}
+.box-3{
+    width: 200px;
+    height: 290px;
+    background-image: url(../img/3.webp);
+    background-size: contain;
+    background-position: center;
+    position: absolute;
+    left: 440px;
+    bottom: 0px;
+}
+.box-4{
+    width: 200px;
+    height: 290px;
+    background-image: url(../img/4.webp);
+    background-size: contain;
+    background-position: center;
+    position: absolute;
+    left: 0px;
+    top: 390px;
+}
+.box-5{
+    width: 200px;
+    height: 290px;
+    background-image: url(../img/5.webp);
+    background-size: contain;
+    background-position: center;
+    position: absolute;
+    left: 220px;
+    top: 390px;
+}
+.box-6{
+    width: 200px;
+    height: 290px;
+    background-image: url(../img/6.webp);
+    background-size: contain;
+    background-position: center;
+    position: absolute;
+    left: 440px;
+    top: 390px;
+}
+h5{
+    position: absolute;
+    top: 300px;
+}
+.sottotitolo{
+    position: absolute;
+    top: 310px;
+}
+.prezzo{
+    position: absolute;
+    top: 330px;
+    color: red;
+}
+.box-cuore{
+    
+    background-color: white;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 20px;
+    left: 180px;
+}
+.box-sconto{
+    background-color: red;
+    width: 40px;
+    height: 20px;
+    position: absolute;
+    top: 260px;
+    left: 20px;
+    color: white;
+}
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+
+
+
+    
+
+
+    
+    
